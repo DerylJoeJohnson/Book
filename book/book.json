@@ -2,7 +2,7 @@
     {
         "name":"The ALCHEMIST",
         "author":"PAULO COEHLO",
-        "genre":"fantasy",
+        "genre":"Fantasy",
         "descript":"About the Book Santiago, an Andalusian shepherd boy, looks to travel the world in the quest to find a worldly treasure, unlike any others. Santiago’s quest takes him to the magical desert of Egypt, where he meets the alchemist. Is the alchemist what Santiago was looking for, or is he there to stop Santiago from fulfilling his quest? Well, you’ll have to read The Alchemist to find out. About the Author Born on 24 August 1947, Brazilian lyricist and novelist Paulo Coelho is best known for his novel The Alchemist. Even at a young age, Paulo always knew that he was meant to become a writer. In fact, when a young Paulo told his mother about his wish to become a writer and expressed his unwillingness to follow a traditional path, his parents committed him to a mental institution. But, that didn’t stop Paulo Coelho, and he went on to write best-selling novels, such as The Winner Stands Alone, The Devil and Miss Prym and The Witch of Portobello, among others.",
         "img":"Alch.jpg",
         "price":"200 Rs"
@@ -73,7 +73,7 @@
     {
         "name":"Zodiac",
         "author":"Robert Graysmith",
-        "genre":"Based on True Story",
+        "genre":"Based-on-True-Story",
         "descript":"Find the Serial killer",
         "img":"Zodiac.jpg",
         "price":"250 Rs"
