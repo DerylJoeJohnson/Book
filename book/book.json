@@ -1,0 +1,98 @@
+[
+    {
+        "name":"The ALCHEMIST",
+        "author":"PAULO COEHLO",
+        "genre":"fantasy",
+        "descript":"About the Book Santiago, an Andalusian shepherd boy, looks to travel the world in the quest to find a worldly treasure, unlike any others. Santiago’s quest takes him to the magical desert of Egypt, where he meets the alchemist. Is the alchemist what Santiago was looking for, or is he there to stop Santiago from fulfilling his quest? Well, you’ll have to read The Alchemist to find out. About the Author Born on 24 August 1947, Brazilian lyricist and novelist Paulo Coelho is best known for his novel The Alchemist. Even at a young age, Paulo always knew that he was meant to become a writer. In fact, when a young Paulo told his mother about his wish to become a writer and expressed his unwillingness to follow a traditional path, his parents committed him to a mental institution. But, that didn’t stop Paulo Coelho, and he went on to write best-selling novels, such as The Winner Stands Alone, The Devil and Miss Prym and The Witch of Portobello, among others.",
+        "img":"Alch.jpg",
+        "price":"200 Rs"
+    },
+    {
+        "name":"Mein Kampf",
+        "author":"Adolf Hitler",
+        "genre":"Biography",
+        "descript":"Mein Kampf, the autobiography of Adolf Hitler, provides a peek into the mind of a man who single-handedly managed to change the course of history, wounding the psyche of a people for generations to come and marring the memories of a race for all of time. This elegant hardbound edition comes with a gold-foiled cover, gilded edges, and beautiful endpapers. A historically relevant book that gives excellent insight into the maniacal ideologies and visions with which Hitler shook the world, Mein Kampf is an exploration of the Holocaust from the other side of the genocide, from Hitler's perspective. One of the most widely published, circulated, and read books in the world, Mein Kampf is at once a chilling, a revealing, and an intriguing foray into the inner mental mechanics of a man whose legacy continues to weigh down history even today.",
+        "img":"meinkampf.jpg",
+        "price":"300 Rs"
+    },
+    {
+        "name":"Harry Potter and the Chamber of Secrets ",
+        "author":"J.K. Rowling",
+        "genre":"Fantasy",
+        "descript":"A restroom full of mystery and the wizards find it",
+        "img":"HPCOS.jpg",
+        "price":""
+    },
+    {
+        "name":"Troy-Fall of Kings",
+        "author":"David Gemmel",
+        "genre":"History-Fiction",
+        "descript":"War O War Drama complete destruction",
+        "img":"troy.jpg",
+        "price":"1000 Rs"
+    },
+    {
+        "name":"To kill a Mocking Bird",
+        "author":"Harper Lee",
+        "genre":"fiction",
+        "descript":"A lawyer's advice to his children as he defends the real mockingbird of Harper Lee's classic novel--a black man charged with the rape of a white girl. Through the young eyes of Scout and Jem Finch, Harper Lee explores with rich humor and unswerving honesty the irrationality of adult attitudes toward race and class in the Deep South of the 1930s. The conscience of a town steeped in prejudice, violence, and hypocrisy is pricked by the stamina and quiet heroism of one man's struggle for justice--but the weight of history will only tolerate so much. One of the best-loved classics of all time, To Kill a Mockingbird has earned many dis-tinctions since its original publication in 1960. It has won the Pulitzer Prize, been translated into more than forty languages, sold more than forty million copies worldwide, and been made into an enormously popular movie. It was also named the best novel of the twentieth century by librarians across the country (Library Journal). HarperCollins is proud to celebrate the fiftieth anniversary of the book's publication.",
+        "img":"Mockin.jpg",
+        "price":"2400 rs"
+    },
+    {
+        "name":"P.S. I Love You",
+        "author":"cecelia Ahern",
+        "genre":"Romance",
+        "descript":"Beautiful story",
+        "img":"p.s.jpg",
+        "price":"500 Rs"
+    },
+    {
+        "name":"MATHS for CLASS 10",
+        "author":"NCERT",
+        "genre":"Educational",
+        "descript":"Helps you solve Problems",
+        "img":"Maths.jpg",
+        "price":"500 Rs"
+    },
+    {
+        "name":"Panchatantra",
+        "author":"UnKNOWN",
+        "genre":"Humour",
+        "descript":"For Kids and adults the book of the century",
+        "img":"panchata.jpg",
+        "price":"10000 Rs"
+    },{
+        "name":"The World of ice and fire.",
+        "author":"George R.R. Martin",
+        "genre":"Fantasy",
+        "descript":"Violent Daenerys Stormborn mother of dragons breaker of chains.",
+        "img":"theworldoficeandfire.jpg",
+        "price":"10000 ₹"
+    },
+    {
+        "name":"Zodiac",
+        "author":"Robert Graysmith",
+        "genre":"Based on True Story",
+        "descript":"Find the Serial killer",
+        "img":"Zodiac.jpg",
+        "price":"250 Rs"
+    },
+    {
+        "name":"Guinness Records 2018",
+        "author":"GWR",
+        "genre":"Information-Education",
+        "descript":"The complete record book",
+        "img":"guine.jpg",
+        "price":"600 Rs"
+    },
+    {
+        "name":"Beginners Atlas",
+        "author":"National Geographic",
+        "genre":"Geography",
+        "descript":"Lots and Lots of MAPS..",
+        "img":"Beginatlas.jpg",
+        "price":"250 RS"
+    }
+
+]
